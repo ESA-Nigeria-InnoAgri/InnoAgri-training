@@ -1,0 +1,10 @@
+site_name: AgriInno Training Program
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+  - Module 1: module01/index.md
+  - Module 2: module02/index.md
