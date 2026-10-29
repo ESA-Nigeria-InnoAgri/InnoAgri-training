@@ -5,6 +5,8 @@ theme:
 
 nav:
   - Home: index.md
-
+  
   - Module 1: module01/index.md
   - Module 2: module02/index.md
+
+  - Course forum: https://github.com/ESA-Nigeria-InnoAgri/InnoAgri-training/discussions
