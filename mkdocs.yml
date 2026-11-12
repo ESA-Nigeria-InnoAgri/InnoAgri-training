@@ -1,12 +1,19 @@
-site_name: AgriInno Training Program
+site_name: ESA Nigeria InnoAgri Training Program
 
 theme:
   name: material
+  logo: assets/images/Project_logo_small.png
+  palette:
+      primary: custom
+      accent: custom
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
   
-  - Module 1: module01/index.md
-  - Module 2: module02/index.md
+  - Module 1: 
+    - Overview: module-01/index.md
 
   - Course forum: https://github.com/ESA-Nigeria-InnoAgri/InnoAgri-training/discussions
