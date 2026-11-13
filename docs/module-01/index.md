@@ -1,6 +1,6 @@
 # Module 1 - Introduction to EO and Applications for Agriculture
 
-> A **PDF version** of this week's program can be downloaded [here](../assets/schedules/InnoAgri_Week1_Participant_Programme_v2.pdf).
+> A **PDF version** of this week's program can be downloaded [here](../module-01/resources/InnoAgri_Week1_Participant_Programme_v2.pdf).
 
 
 ## Module overview
