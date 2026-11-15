@@ -100,7 +100,7 @@ All participants are requested to:
 | | 11:40–12:10 | Participant survey: Assess experience, expectations, current knowledge and interests | *Anonymized output will be shared here* |
 | | 12:10–13:00 | Lecture to introduce the CSIS co-design exercise | |
 | | 13:00–13:45 | Lunch break | |
-| | 13:45–15:30 | Lecture on EO principles, and main applictions in agriculture | |
+| | 13:45–15:30 | Lecture on EO principles, and main applictions in agriculture | [Slides](../module-01/resources/lectures/4_Introduction_EO_for_agriculture.pdf) |
 | | 15:30–16:00 | Quiz and discussion | |
 | | | | |
 | **Tuesday 17 November**<br>*Nigerian needs and existing capabilities* | 09:00–10:30 | Ministry presentations: Mandates, agricultural decisions, data holdings and information gaps | |
