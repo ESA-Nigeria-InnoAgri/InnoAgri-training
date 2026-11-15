@@ -1,19 +1,16 @@
 # Module 1 - Introduction to EO and Applications for Agriculture
 
-> A **PDF version** of this week's program can be downloaded [here](../module-01/resources/InnoAgri_Week1_Participant_Programme_v2.pdf).
-
-
 ## Module overview
 
 **Timing:** 16-20 November 2026  
 **Level:** Basic  
 **Lead:** VITO  
 **Additional teachers:** RAMANI  
-**Target audience:** Ministry of Agriculture, Ministry of Livestock, Ministry of Water Resources Management and relevant NASRDA staff
+**Target audience:** Key Nigerian stakeholders, including Ministries of Agriculture, Livestock, Water Resources Management and related National organizations
 
 Module 1 provides a **high-level introduction to Earth Observation (EO) and its applications for agricultural monitoring**. It is designed to create a common understanding among participants with different technical and institutional backgrounds before the programme moves into more specialised modules.
 
-The week also has an important co-development function. Alongside the introductory training, participants will discuss existing agricultural monitoring activities and datasets, assess their own technical capacity, and contribute to defining the **user needs, scope and priorities of the Climate-Smart Information System (CSIS)**.
+The week also has an important ideation function. Alongside the introductory training, participants will discuss existing agricultural monitoring activities and datasets, assess their own technical capacity, and contribute to defining the **user needs, scope and priorities of the Climate-Smart Information System (CSIS)**.
 
 
 ## Learning objectives
@@ -72,7 +69,7 @@ The week will cover the following broad themes:
     - Initial practical geospatial assignment
     - Identification of current technical capacities and gaps
 
-7. **CSIS needs assessment and co-creation**
+7. **CSIS needs assessment and ideation**
     - Target users
     - Priority decisions and information needs
     - Thematic scope
@@ -97,36 +94,33 @@ All participants are requested to:
 
 | Day & Theme | Time | Session | Materials |
 | :--- | :--- | :--- | :--- |
-| **Monday 16 November**<br>*Welcome and EO foundations* | 09:00–10:30 | Welcome remarks by NASRDA, EU Delegation and participating ministries | |
+| **Monday 16 November**<br>*Welcome and EO foundations* | 09:00–10:30 | Welcome remarks by NASRDA, EU Delegation, participating ministries and trainers | |
 | | 10:30–11:00 | Coffee break | |
-| | 11:00–11:40 | Lecture on project objectives, CSIS vision, training program and Week 1 goals | |
-| | 11:40–12:10 | Participant survey: Assess experience, expectations, current knowledge and interests | |
+| | 11:00–11:40 | Lecture on project objectives, training program and Week 1 goals | [Slides](../module-01/resources/lectures/1_project_intro.pdf) |
+| | 11:40–12:10 | Participant survey: Assess experience, expectations, current knowledge and interests | *Anonymized output will be shared here* |
 | | 12:10–13:00 | Lecture to introduce the CSIS co-design exercise | |
 | | 13:00–13:45 | Lunch break | |
-| | 13:45–14:45 | Lecture on EO principles, sensor types, resolution, strengths and limitations | |
-| | 14:45–15:30 | Discovering examples of EO applications in agriculture | |
+| | 13:45–15:30 | Lecture on EO principles, and main applictions in agriculture | |
 | | 15:30–16:00 | Quiz and discussion | |
 | | | | |
 | **Tuesday 17 November**<br>*Nigerian needs and existing capabilities* | 09:00–10:30 | Ministry presentations: Mandates, agricultural decisions, data holdings and information gaps | |
 | | 10:30–11:00 | Coffee break | |
-| | 11:00–12:15 | Workshop: Identify user needs | |
-| | 12:15–13:00 | Workshop: Define required agricultural services questions | |
+| | 11:00–12:00 | Workshop: From user needs to focused service questions | |
+| | 12:00–13:00 | Lecture: InnoAgri IoT sensors & NigeriaSat data | |
 | | 13:00–13:45 | Lunch break | |
-| | 13:45–14:30 | Lecture on NASRDA's monitoring capabilities and data assets | |
-| | 14:30–15:30 | Workshop: Inventory of Nigerian data and tools | |
-| | 15:30–16:00 | Workshop: Populate initial CSIS service canvases | |
+| | 13:45–15:00 | Lecture on NASRDA's monitoring capabilities and data assets | |
+| | 15:00–16:00 | Workshop: Identifying the right data for your service concepts | |
 | | | | |
-| **Wednesday 18 November**<br>*EO data, indicators and interpretation* | 09:00–09:45 | Lecture on EO data sources for agriculture | |
-| | 09:45–10:30 | Lecture: From raw observations to indicators | |
+| **Wednesday 18 November**<br>*EO data, indicators and interpretation* | 09:00–10:30 | Lecture: From raw EO observations to information | |
 | | 10:30–11:00 | Coffee break | |
 | | 11:00–11:30 | Demonstration: Introduction to QGIS and Jupyter Notebooks | |
-| | 11:30–12:20 | Practical assignment: Exploration and interpretation of Nigerian EO data | |
+| | 11:30–13:00 | Practical assignment: Exploration and interpretation of Nigerian EO data | |
 | | 13:00–13:45 | Lunch break | |
-| | 13:45–14:45 | Workshop: Interactive interpretation case studies | |
-| | 14:45–16:00 | Workshop: Choose suitable data and approaches for the CSIS prototypes  | |
+| | 13:45–14:30 | Continuation practical assignment | |
+| | 14:30–16:00 | Workshop: Choose suitable data and approaches for your service concepts  | |
 | | | | |
-| **Thursday 19 November**<br>*Advanced EO and operational services* | 09:00–10:15 | Lecture on recent developments in EO (cloud processing, foundation models, forecasting) | |
-| | 10:15–10:30 | Lecture: From indicators to services | |
+| **Thursday 19 November**<br>*Advanced EO and operational services* | 09:00–10:00 | Lecture on recent developments in EO (cloud processing, foundation models, forecasting) | |
+| | 10:00–10:30 | Lecture: From indicators to services | |
 | | 10:30–11:00 | Coffee break | |
 | | 11:00–12:30 | Workshop: Evaluation of existing monitoring systems | |
 | | 12:30–13:00 | Discussion: Shared lessons from the platform review | |
@@ -135,22 +129,10 @@ All participants are requested to:
 | | 14:15–15:30 | Workshop: Refine service canvasses with enhanced capabilities | |
 | | 15:30–16:00 | Workshop: Identify shared capabilities across service canvasses | |
 | | | | |
-| **Friday 20 November**<br>*Integration, evaluation and closing* | 09:00–09:40 | Final service canvas review | |
-| | 09:40–10:30 | Workshop: Towards an integrated CSIS | |
-| | 10:30–11:00 | Coffee break | |
-| | 11:00–13:00 | Workshop: CSIS prototype investigation - how to get started? | |
-| | 13:00–13:45 | Lunch break | |
-| | 13:45–14:15 | Discussion: Priorities and next steps for the CSIS prototypes | |
-| | 14:15–15:00 | Participant survey: Individual learning and course feedback | |
-| | 15:00–16:00 | Closing ceremony and certificates | |
-
-
-## Additional resources
-
-- [Background reading 1 - placeholder](#)
-- [Background reading 2 - placeholder](#)
-- [Useful EO data portals - placeholder](#)
-- [Optional videos / tutorials - placeholder](#)
+| **Friday 20 November**<br>*Evaluation and closing* | 09:00–10:00 | Ideation canvas pitches | |
+| | 10:00–10:30 | Conclusion on CSIS priorities | |
+| | 10:30–11:30 | Participant surveys: Individual learning and course feedback | |
+| | 11:30–12:30 | Closing ceremony | |
 
 
 ## Assignments and expected outputs
@@ -173,9 +155,6 @@ Participants will be invited to provide feedback on the module, including:
 - practical exercise difficulty;
 - teaching effectiveness; and
 - suggestions for future modules.
-
-- [Module 1 evaluation form - placeholder](#)
-- [Evaluation results / lessons learned - placeholder](#)
 
 
 ## Contact and support
