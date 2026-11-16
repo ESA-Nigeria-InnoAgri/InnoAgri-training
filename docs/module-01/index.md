@@ -128,6 +128,7 @@ All participants are requested to:
 | | 13:45–14:15 | Lecture on InnoAgri proposed capabilities | |
 | | 14:15–15:30 | Workshop: Refine service canvasses with enhanced capabilities | |
 | | 15:30–16:00 | Workshop: Identify shared capabilities across service canvasses | |
+| | Take-home | How to create an attractive pitch? | [Slides](../module-01/resources/lectures/12_Pitching and branding-RAMANI.pdf)|
 | | | | |
 | **Friday 20 November**<br>*Evaluation and closing* | 09:00–10:00 | Ideation canvas pitches | |
 | | 10:00–10:30 | Conclusion on CSIS priorities | |
