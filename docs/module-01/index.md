@@ -97,13 +97,13 @@ All participants are requested to:
 | **Monday 16 November**<br>*Welcome and EO foundations* | 09:00–10:30 | Welcome remarks by NASRDA, EU Delegation, participating ministries and trainers | |
 | | 10:30–11:00 | Coffee break | |
 | | 11:00–11:40 | Lecture on project objectives, training program and Week 1 goals | [Slides](../module-01/resources/lectures/1_project_intro.pdf) |
-| | 11:40–12:10 | Participant survey: Assess experience, expectations, current knowledge and interests | *Anonymized output will be shared here* |
-| | 12:10–13:00 | Lecture to introduce the CSIS co-design exercise | |
+| | 11:40–13:00 | Participant survey: Assess experience, expectations, current knowledge and interests | *Anonymized output will be shared here* |
 | | 13:00–13:45 | Lunch break | |
-| | 13:45–15:30 | Lecture on EO principles, and main applictions in agriculture | [Slides](../module-01/resources/lectures/4_Introduction_EO_for_agriculture.pdf) |
-| | 15:30–16:00 | Quiz and discussion | |
+| | 13:45–15:00 | Lecture on EO principles, and main applictions in agriculture | [Slides](../module-01/resources/lectures/4_Introduction_EO_for_agriculture.pdf) |
+| | 15:00–16:00 | Introduction to the ideation canvas exercise | |
 | | | | |
-| **Tuesday 17 November**<br>*Nigerian needs and existing capabilities* | 09:00–10:30 | Ministry presentations: Mandates, agricultural decisions, data holdings and information gaps | |
+| **Tuesday 17 November**<br>*Nigerian needs and existing capabilities* | 09:00–10:00 | Ministry presentations: Mandates, agricultural decisions, data holdings and information gaps | |
+| | 10:00–10:30 | Continued lecture on EO principles and applications in agriculture | |
 | | 10:30–11:00 | Coffee break | |
 | | 11:00–12:00 | Workshop: From user needs to focused service questions | |
 | | 12:00–13:00 | Lecture: InnoAgri IoT sensors & NigeriaSat data | |
