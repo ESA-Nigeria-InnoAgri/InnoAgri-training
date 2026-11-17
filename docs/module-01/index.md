@@ -111,10 +111,10 @@ All participants are requested to:
 | | 13:45–15:00 | Lecture on NASRDA's monitoring capabilities and data assets | |
 | | 15:00–16:00 | Workshop: Identifying the right data for your service concepts | |
 | | | | |
-| **Wednesday 18 November**<br>*EO data, indicators and interpretation* | 09:00–10:30 | Lecture: From raw EO observations to information | |
+| **Wednesday 18 November**<br>*EO data, indicators and interpretation* | 09:00–10:30 | Lecture: From raw EO observations to information | [Slides](../module-01/resources/lectures/9_Data_to_information.pdf) |
 | | 10:30–11:00 | Coffee break | |
 | | 11:00–11:30 | Demonstration: Introduction to QGIS and Jupyter Notebooks | |
-| | 11:30–13:00 | Practical assignment: Exploration and interpretation of Nigerian EO data | |
+| | 11:30–13:00 | Practical assignment: Exploration and interpretation of Nigerian EO data | [Instructions and guidelines](../module-01/resources/lectures/10_InnoAgri_QGIS_Exercise.pdf) |
 | | 13:00–13:45 | Lunch break | |
 | | 13:45–14:30 | Continuation practical assignment | |
 | | 14:30–16:00 | Workshop: Choose suitable data and approaches for your service concepts  | |
