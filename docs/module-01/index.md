@@ -129,7 +129,7 @@ All participants are requested to:
 | | 13:00–13:45 | Lunch break | |
 | | 13:45–14:15 | Lecture on InnoAgri proposed capabilities | |
 | | 14:15–15:30 | Workshop: Refine service canvasses with enhanced capabilities | |
-| | 15:30–16:00 | Workshop: Identify shared capabilities across service canvasses | |
+| | 15:30–16:00 | Workshop: Validate your business idea | [Link to template](https://docs.google.com/presentation/d/1ETkC3-aXxMxV8ojx4Ss_Zc5wi7HiRbG6pBw-LUhP2mI/edit?slide=id.g32cd06883c2_0_294#slide=id.g32cd06883c2_0_294) |
 | | Take-home | How to create an attractive pitch? | [Slides](../module-01/resources/lectures/12_Pitching and branding-RAMANI.pdf)|
 | | | | |
 | **Friday 20 November**<br>*Evaluation and closing* | 09:00–10:00 | Ideation canvas pitches | |
