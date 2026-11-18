@@ -119,6 +119,7 @@ All participants are requested to:
 | | 11:30–13:00 | Practical assignment: Exploration and interpretation of Nigerian EO data | [Instructions and guidelines](../module-01/resources/lectures/10_InnoAgri_QGIS_Exercise.pdf) |
 | | 13:00–13:45 | Lunch break | |
 | | 13:45–14:30 | Continuation practical assignment | |
+| | 14–30-15:00 | Existing data inventory | [Data inventory template](../module-01/resources/lectures/8_Data_inventory.pptx) |
 | | 14:30–16:00 | Workshop: Choose suitable data and approaches for your service concepts  | |
 | | | | |
 | **Thursday 19 November**<br>*Advanced EO and operational services* | 09:00–10:00 | Lecture on recent developments in EO (cloud processing, foundation models, forecasting) | |
