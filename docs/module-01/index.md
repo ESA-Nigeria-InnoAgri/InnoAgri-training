@@ -106,7 +106,7 @@ All participants are requested to:
 | | 10:00–10:30 | Continued lecture on EO principles and applications in agriculture | |
 | | 10:30–11:00 | Coffee break | |
 | | 11:00–12:00 | Workshop: From user needs to focused service questions | |
-| | 12:00–13:00 | Lecture: InnoAgri IoT sensors & NigeriaSat data | |
+| | 12:00–13:00 | Lecture: InnoAgri IoT sensors & NigeriaSat data | [Slides NigeriaSat1](../module-01/resources/lectures/5_NigeriaSat1_Image_Cleaning.pdf) |
 | | 13:00–13:45 | Lunch break | |
 | | 13:45–15:00 | Lecture on NASRDA's monitoring capabilities and data assets | |
 | | 15:00–16:00 | Workshop: Identifying the right data for your service concepts | |
