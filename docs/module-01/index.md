@@ -92,6 +92,8 @@ All participants are requested to:
 
 ## Week schedule and link to materials
 
+*Powerpoint template to be used for presentations: [Click to download](../module-01/resources/InnoAgri_Template_Module-1.pptx)
+
 | Day & Theme | Time | Session | Materials |
 | :--- | :--- | :--- | :--- |
 | **Monday 16 November**<br>*Welcome and EO foundations* | 09:00–10:30 | Welcome remarks by NASRDA, EU Delegation, participating ministries and trainers | |
