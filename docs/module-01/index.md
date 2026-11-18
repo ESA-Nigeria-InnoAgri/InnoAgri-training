@@ -104,33 +104,29 @@ All participants are requested to:
 | | 13:45–15:00 | Lecture on EO principles, and main applictions in agriculture | [Slides](../module-01/resources/lectures/3_Introduction_EO_for_agriculture.pdf) |
 | | 15:00–16:00 | Introduction to the ideation canvas exercise | |
 | | | | |
-| **Tuesday 17 November**<br>*Nigerian needs and existing capabilities* | 09:00–10:00 | Ministry presentations: Mandates, agricultural decisions, data holdings and information gaps | |
-| | 10:00–10:30 | Continued lecture on EO principles and applications in agriculture | |
+| **Tuesday 17 November**<br>*Nigerian needs and existing capabilities* | 09:00–10:00 | Ministry presentations: Mandates, agricultural decisions, data holdings and information gaps | *Presentations will be shared here* |
+| | 10:00–10:30 | Continued lecture on EO principles and applications in agriculture + quiz | |
 | | 10:30–11:00 | Coffee break | |
-| | 11:00–12:00 | Workshop: From user needs to focused service questions | |
+| | 11:00–12:00 | Ideation canvas exercise | |
 | | 12:00–13:00 | Lecture: InnoAgri IoT sensors & NigeriaSat data | [Slides NigeriaSat1](../module-01/resources/lectures/5_NigeriaSat1_Image_Cleaning.pdf) |
 | | 13:00–13:45 | Lunch break | |
-| | 13:45–15:00 | Lecture on NASRDA's monitoring capabilities and data assets | |
-| | 15:00–16:00 | Workshop: Identifying the right data for your service concepts | |
+| | 13:45–15:00 | Lecture on NASRDA's monitoring capabilities and data assets | *Presentations will be shared here* |
+| | 15:00–16:00 | Ideation canvas exercise | |
 | | | | |
-| **Wednesday 18 November**<br>*EO data, indicators and interpretation* | 09:00–10:30 | Lecture: From raw EO observations to information | [Slides](../module-01/resources/lectures/9_Data_to_information.pdf) |
+| **Wednesday 18 November**<br>*Business ideation exercise* | 09:00–10:30 | Continued presentations from represented Ministries and agencies  | |
+| | 10:30–11:00 | Coffee break | |
+| | 11:00–13:00 | Ideation canvas exercise | | 
+| | 13:00–13:45 | Lunch break | |
+| | 13:45–14:30 | Presentation on a concrete agriculture solution | *Presentation will be shared here* |
+| | 14–30-15:00 | Existing data inventory | [Data inventory template](../module-01/resources/lectures/8_Data_inventory.pptx) |
+| | 14:30–16:00 | Ideation canvas exercise  | |
+| | | | |
+| **Thursday 19 November**<br>*EO data to information* | 09:00–10:30 | Lecture: From raw EO observations to information | [Slides](../module-01/resources/lectures/9_Data_to_information.pdf) |
 | | 10:30–11:00 | Coffee break | |
 | | 11:00–11:30 | Demonstration: Introduction to QGIS and Jupyter Notebooks | |
-| | 11:30–13:00 | Practical assignment: Exploration and interpretation of Nigerian EO data | [Instructions and guidelines](../module-01/resources/lectures/10_InnoAgri_QGIS_Exercise.pdf) |
+| | 11:30–13:00 | Practical assignment: Visualization of EO data | [Instructions and guidelines](../module-01/resources/lectures/10_InnoAgri_QGIS_Exercise.pdf) |
 | | 13:00–13:45 | Lunch break | |
-| | 13:45–14:30 | Continuation practical assignment | |
-| | 14–30-15:00 | Existing data inventory | [Data inventory template](../module-01/resources/lectures/8_Data_inventory.pptx) |
-| | 14:30–16:00 | Workshop: Choose suitable data and approaches for your service concepts  | |
-| | | | |
-| **Thursday 19 November**<br>*Advanced EO and operational services* | 09:00–10:00 | Lecture on recent developments in EO (cloud processing, foundation models, forecasting) | |
-| | 10:00–10:30 | Lecture: From indicators to services | |
-| | 10:30–11:00 | Coffee break | |
-| | 11:00–12:30 | Workshop: Evaluation of existing monitoring systems | |
-| | 12:30–13:00 | Discussion: Shared lessons from the platform review | |
-| | 13:00–13:45 | Lunch break | |
-| | 13:45–14:15 | Lecture on InnoAgri proposed capabilities | |
-| | 14:15–15:30 | Workshop: Refine service canvasses with enhanced capabilities | |
-| | 15:30–16:00 | Workshop: Validate your business idea | [Link to template](https://docs.google.com/presentation/d/1ETkC3-aXxMxV8ojx4Ss_Zc5wi7HiRbG6pBw-LUhP2mI/edit?slide=id.g32cd06883c2_0_294#slide=id.g32cd06883c2_0_294) |
+| | 15:30–16:00 | Validate your business idea | [Link to validation template](https://docs.google.com/presentation/d/1ETkC3-aXxMxV8ojx4Ss_Zc5wi7HiRbG6pBw-LUhP2mI/edit?slide=id.g32cd06883c2_0_294#slide=id.g32cd06883c2_0_294) |
 | | Take-home | How to create an attractive pitch? | [Slides](../module-01/resources/lectures/12_Pitching and branding-RAMANI.pdf)|
 | | | | |
 | **Friday 20 November**<br>*Evaluation and closing* | 09:00–10:00 | Ideation canvas pitches | |
@@ -143,10 +139,14 @@ All participants are requested to:
 
 During the week, participants will contribute to several outputs:
 
-- completion of the practical geospatial exercise;
-- contribution to the institutional data inventory;
-- participation in the CSIS needs-assessment exercise; and
+- initiation to the institutional data inventory;
+- creating an overview of institutional mandates and needs;
 - contribution to group discussions and co-creation activities.
+
+**Final assignment**
+
+Two written assignments should be prepared by the participants, one in group and one individual.
+Assignments need to be submitted by email to the course facilitators by February 1st, 2027 the latest. More instructions can be found [HERE](../module-01/resources/lectures/13_InnoAgri_week1_final_assignment.pdf).
 
 
 ## Evaluation and feedback
