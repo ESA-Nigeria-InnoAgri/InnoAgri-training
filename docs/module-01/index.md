@@ -146,7 +146,11 @@ During the week, participants will contribute to several outputs:
 **Final assignment**
 
 Two written assignments should be prepared by the participants, one in group and one individual.
-Assignments need to be submitted by email to the course facilitators by February 1st, 2027 the latest. More instructions can be found [HERE](../module-01/resources/lectures/13_InnoAgri_week1_final_assignment.pdf).
+Assignments need to be submitted by email to the course facilitators:
+- Group assignments on data inventory by **December 24th, 2026**.
+- Individual assignment on self-reflection by **February 1st, 2027**.
+
+--> More detailed instructions can be found [HERE](../module-01/resources/lectures/13_InnoAgri_week1_final_assignment.pdf).
 
 
 ## Evaluation and feedback
