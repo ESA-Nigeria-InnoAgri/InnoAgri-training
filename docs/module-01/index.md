@@ -147,6 +147,7 @@ During the week, participants will contribute to several outputs:
 
 Two written assignments should be prepared by the participants, one in group and one individual.
 Assignments need to be submitted by email to the course facilitators:
+
 - Individual assignment on self-reflection by **November 27th, 2026**.
 - Group assignments on data inventory by **December 24th, 2026**.
 
