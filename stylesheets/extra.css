@@ -1,0 +1,17 @@
+:root > * {
+  /* Header / primary UI */
+  --md-primary-fg-color: #00A393;
+
+  /* Links / interactive accents */
+  --md-accent-fg-color: #03133C;
+}
+
+.md-typeset h1 {
+  color: #00A393;
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  color: #03133C;
+  font-weight: 600;
+}
