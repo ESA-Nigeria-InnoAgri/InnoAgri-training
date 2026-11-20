@@ -131,7 +131,7 @@ All participants are requested to:
 | | | | |
 | **Friday 20 November**<br>*Evaluation and closing* | 09:00–10:00 | Ideation canvas pitches | |
 | | 10:00–10:30 | Conclusion on CSIS priorities | |
-| | 10:30–11:30 | Participant surveys: Individual learning and course feedback | |
+| | 10:30–11:30 | Participant survey: Course feedback | [Link to survey](https://form.menti.com/s/alczx9fqzabw) |
 | | 11:30–12:30 | Closing ceremony | |
 
 
